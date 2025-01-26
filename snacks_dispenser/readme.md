@@ -20,6 +20,27 @@ This dispenser works with a RTC module (DS3231) and a stepper motor (NEMA 17). w
   + 1x push button
   + 1x 100µF capacitor
   + 1x 1kOhm resistance
-  + a lot of jumpers
+  + a lot of wires
 
 ### Connections
+
+### Code
+
+# Modelization & Printed parts
+### 1. Components board <br>
+The system base, where most of the components are integrated <br>
+(image of the board) (naked + integrated + closed) <br>
+[3D file](link to corresponding 3D file)
+
+### 2. Dispenser wheel <br>
+Connected to the stepper, this four-sliced wheel allows to bring a defined amount of food to the bowl <br>
+(image of the wheel) <br>
+[3D file](link to the corresponding 3D file)
+
+### 3. Control panel
+Last level of the system, where buttons and led are integrated <br>
+(image of the panel <br>
+[3D file](link to the corresponding 3D file)
+
+
+
