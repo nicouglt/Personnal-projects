@@ -23,7 +23,7 @@ This dispenser works with a RTC module (DS3231) and a stepper motor (NEMA 17). w
   + a lot of wires
 
 ### Connections
-
+![fritzing schema](img/connections-fritzing) <br>
 ### Code
 
 # Modelization & Printed parts
